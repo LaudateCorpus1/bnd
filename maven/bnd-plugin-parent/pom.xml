@@ -20,7 +20,7 @@
 		<java.release>8</java.release>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
-		<osgi.core.version>6.0.0</osgi.core.version>
+		<osgi.core.version>8.0.0</osgi.core.version>
 		<!-- The following versions must match those in cnf/ext/maven-plugin.bnd -->
 		<maven.target.version>3.3.9</maven.target.version>
 		<aether.version>1.0.2.v20150114</aether.version>
