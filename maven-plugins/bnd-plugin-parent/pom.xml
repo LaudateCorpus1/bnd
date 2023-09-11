@@ -9,7 +9,7 @@
 	<description>Parent POM for the Bnd Maven plugins.</description>
 	<name>Bnd Maven Plugins Parent</name>
 	<packaging>pom</packaging>
-	<version>${revision}</version>
+	<version>7.1.0-SNAPSHOT</version>
 
 	<properties>
 		<revision>7.0.0-SNAPSHOT</revision>
